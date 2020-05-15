@@ -12,8 +12,10 @@
 | 2. [macOS Sierra中配置LAMP环境（PHP多版本切换)](http://www.trydemo.net/home/article/index/id/119.html)||
 | 3. [关于Mac系统下PHP环境搭建的方法](https://www.php.cn/php-weizijiaocheng-406675.html)||
 | 4. [MAC 下的PHP开发环境搭建](https://www.jianshu.com/p/8b2fc1e98038)||
+
 <br>
 <br>
+
 | 环境搭建-安装软件 ||
 | --- | --- |
 | 0. [Mac版|PhpStorm2019.2.5+激活补丁+汉化](https://www.dungei.com/9655.html)||
@@ -24,22 +26,28 @@
 | 5. [Redis可视化客户端](https://github.com/qishibo/AnotherRedisDesktopManager)||
 | 6. [xampp for mac配置局域网访问](https://www.cnblogs.com/freedom-feng/p/11468429.html)||
 | 7. [Mac下安装的PhpStorm执行php文件报502，回到PhpStorm后，你会看到有一条警告，大概是说php-cgi没有找到](https://blog.csdn.net/m751824643/article/details/81180023)||
+
 <br>
 <br>
+
 | 数据库/缓存-Mysql/Redis ||
 | --- | --- |
 | 1.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
 | 2.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
+
 <br>
 <br>
+
 | PHP框架-hyperf ||
 | --- | --- |
 | 0. [详解php通过pecl方式安装扩展](https://www.php.cn/php-weizijiaocheng-386194.html)||
 | 1. [Mac安装swoole中遇到的问题](https://blog.csdn.net/lishanleilixin/article/details/96137272)||
 | 2. [Mac 安装 Swoole 出现 Enable openssl support, require openssl library 的解决办法](https://cloud.tencent.com/developer/article/1555295)||
 | 2. [Xcode中找不到<openssl/ssl.h>文件怎么解决?](https://www.zhihu.com/question/50993692)| ./configure --enable-sockets --enable-openssl --with-php-config=/usr/bin/php-config --with-openssl-dir=/usr/local/Cellar/openssl/1.0.2t <br>make<br>make install<br>make test|
+
 <br>
 <br>
+
 | 部署相关-Docker ||
 | --- | --- |
 | 0. [docker中文社区](http://www.docker.org.cn/book/docker/what-is-docker-16.html)||
@@ -50,8 +58,10 @@
 | 5. [编写 Dockerfile](https://github.com/zhangpeihao/LearningDocker/blob/master/manuscript/04-WriteDockerfile.md)||
 | 6. [docker compose部署nginx，php，mysql](https://zhuanlan.zhihu.com/p/97824480?utm_source=wechat_session)||
 | 6. [MAC OS X中解决SOCKET.ERROR: ERRNO 48 ADDRESS ALREADY IN USE 端口占用问题](https://blog.csdn.net/dulei294948/article/details/40536963)||
+
 <br>
 <br>
+
 | 代码保存-Git ||
 | --- | --- |
 | 0. [「备忘录」60+Git常用命令行](https://juejin.im/post/5eb2d6bce51d454d9d3ed14f)||
