@@ -26,7 +26,7 @@
 
 | 环境搭建-安装软件 ||
 | --- | --- |
-| 0. [Mac版|PhpStorm2019.2.5+激活补丁+汉化](https://www.dungei.com/9655.html)||
+| 0. [Mac版 PhpStorm2019.2.5+激活补丁+汉化](https://www.dungei.com/9655.html)||
 | 1. [mac安装mysql数据库及配置环境变量](https://blog.csdn.net/qq_36004521/article/details/80637886)||
 | 2. [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium/)||
 | 3. [Mysql 的管理工具Sequel Pro](https://www.jianshu.com/p/ad2143d84483)||
