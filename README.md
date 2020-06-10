@@ -4,7 +4,13 @@
 <br>
 <br>
 <br>
+| 语言学习 ||
+| --- | --- |
+| 1. [PHP-零基础入门教程到书写接口](https://www.bilibili.com/video/BV1Yb411v7nK?p=15) |👍👍👍本人已经看完，推荐学习。主讲（php基础语法/SQL）|
+| 2. [php开发app接口](https://www.bilibili.com/video/BV1B7411i7Se?p=9) |👍本人正在学习当中，主讲php接口开发：（json/xml封装数据，静态缓存/redis缓存，定时任务...）|
 
+<br>
+<br>
 
 | 环境搭建 ||
 | --- | --- |
@@ -25,7 +31,8 @@
 | 4. [Redis 安装和配置](https://www.cnblogs.com/guanbin-529/p/9180840.html)||
 | 5. [Redis可视化客户端](https://github.com/qishibo/AnotherRedisDesktopManager)||
 | 6. [xampp for mac配置局域网访问](https://www.cnblogs.com/freedom-feng/p/11468429.html)||
-| 7. [Mac下安装的PhpStorm执行php文件报502，回到PhpStorm后，你会看到有一条警告，大概是说php-cgi没有找到](https://blog.csdn.net/m751824643/article/details/81180023)||
+| 7. [PHP-mac安装环境-XAMPP](https://www.jianshu.com/p/1b64d1015d81)||
+| 8. [Mac下安装的PhpStorm执行php文件报502，回到PhpStorm后，你会看到有一条警告，大概是说php-cgi没有找到](https://blog.csdn.net/m751824643/article/details/81180023)||
 
 <br>
 <br>
@@ -34,7 +41,9 @@
 | --- | --- |
 | 1.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
 | 2.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
-
+| 3.[Cannot list DB's - mysqli::__construct(): (HY000/2002) no such file or directory ](https://github.com/weprovide/valet-plus/issues/233)|PhpStorm连接本地数据库用过localhost失败，通过127.0.0.1却成功|
+| 4.[PHP连接MySQL主机127.0.0.1与localhost的区别](https://www.qttc.net/228_php_connect_mysql_which_host.html)|PhpStorm连接本地数据库用过localhost失败，通过127.0.0.1却成功|
+| 5.[Mac 执行定时任务](https://blog.csdn.net/qiang_zi_/article/details/102500359)|定时跑php任务|
 <br>
 <br>
 
@@ -43,7 +52,13 @@
 | 0. [详解php通过pecl方式安装扩展](https://www.php.cn/php-weizijiaocheng-386194.html)||
 | 1. [Mac安装swoole中遇到的问题](https://blog.csdn.net/lishanleilixin/article/details/96137272)||
 | 2. [Mac 安装 Swoole 出现 Enable openssl support, require openssl library 的解决办法](https://cloud.tencent.com/developer/article/1555295)||
-| 2. [Xcode中找不到<openssl/ssl.h>文件怎么解决?](https://www.zhihu.com/question/50993692)| ./configure --enable-sockets --enable-openssl --with-php-config=/usr/bin/php-config --with-openssl-dir=/usr/local/Cellar/openssl/1.0.2t <br>make<br>make install<br>make test|
+| 3. [Xcode中找不到<openssl/ssl.h>文件怎么解决?](https://www.zhihu.com/question/50993692)| ./configure --enable-sockets --enable-openssl --with-php-config=/usr/bin/php-config --with-openssl-dir=/usr/local/Cellar/openssl/1.0.2t <br>make<br>make install<br>make test|
+
+<br>
+<br>
+| PHP框架 - Laravel/WordPress||
+| --- | --- |
+| 0. [Laravel与WordPress的对比和区别](http://www.srcmini.com/22873.html)||
 
 <br>
 <br>
