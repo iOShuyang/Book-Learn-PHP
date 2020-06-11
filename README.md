@@ -1,15 +1,17 @@
 #  <div align=center> PHP相关学习资料</div>
 ###  <div align=center> 半推半就的学习php日常积累</div>
-###  <div align=center> 积累不易,麻烦点赞支持,谢谢</div>
 
 <br>
 <br>
 <br>
-
 | 语言学习 ||
 | --- | --- |
 | 1. [PHP-零基础入门教程到书写接口](https://www.bilibili.com/video/BV1Yb411v7nK?p=15) |👍👍👍本人已经看完，推荐学习。主讲（php基础语法/SQL）|
 | 2. [php开发app接口](https://www.bilibili.com/video/BV1B7411i7Se?p=9) |👍本人正在学习当中，主讲php接口开发：（json/xml封装数据，静态缓存/redis缓存，定时任务...）|
+| 3. [php中相对路径和绝对路径如何使用](https://www.cnblogs.com/Im-Victor/p/9444369.html) ||
+| 4. [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1217864791925600) |廖雪峰的官方网站|
+| 5. [PHP 单例模式连接数据库](https://blog.csdn.net/hcy48/article/details/78347280) ||
+| 6. [php redis 单例模式](https://blog.csdn.net/yqbaa/article/details/49151363) ||
 
 <br>
 <br>
@@ -26,7 +28,7 @@
 
 | 环境搭建-安装软件 ||
 | --- | --- |
-| 0. [Mac版 PhpStorm2019.2.5+激活补丁+汉化](https://www.dungei.com/9655.html)||
+| 0. [Mac版|PhpStorm2019.2.5+激活补丁+汉化](https://www.dungei.com/9655.html)|[激活码](https://www.jianshu.com/p/133af2e4fe3f)|
 | 1. [mac安装mysql数据库及配置环境变量](https://blog.csdn.net/qq_36004521/article/details/80637886)||
 | 2. [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium/)||
 | 3. [Mysql 的管理工具Sequel Pro](https://www.jianshu.com/p/ad2143d84483)||
@@ -45,7 +47,8 @@
 | 2.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
 | 3.[Cannot list DB's - mysqli::__construct(): (HY000/2002) no such file or directory ](https://github.com/weprovide/valet-plus/issues/233)|PhpStorm连接本地数据库用过localhost失败，通过127.0.0.1却成功|
 | 4.[PHP连接MySQL主机127.0.0.1与localhost的区别](https://www.qttc.net/228_php_connect_mysql_which_host.html)|PhpStorm连接本地数据库用过localhost失败，通过127.0.0.1却成功|
-| 5.[Mac 执行定时任务](https://blog.csdn.net/qiang_zi_/article/details/102500359)|定时跑php任务|
+| 5.[mac os 命令行安装 启动和停止 redis](https://www.jianshu.com/p/a01a85c1041b)||
+| 6.[Mac 执行定时任务](https://blog.csdn.net/qiang_zi_/article/details/102500359)|定时跑php任务|
 <br>
 <br>
 
@@ -58,7 +61,6 @@
 
 <br>
 <br>
-
 | PHP框架 - Laravel/WordPress||
 | --- | --- |
 | 0. [Laravel与WordPress的对比和区别](http://www.srcmini.com/22873.html)||
