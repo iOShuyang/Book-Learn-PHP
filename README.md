@@ -4,18 +4,28 @@
 <br>
 <br>
 <br>
-| 语言学习 ||
+
+
+| 语言学习by视频 ||
 | --- | --- |
 | 1. [PHP-零基础入门教程到书写接口](https://www.bilibili.com/video/BV1Yb411v7nK?p=15) |👍👍👍本人已经看完，推荐学习。主讲（php基础语法/SQL）|
 | 2. [php开发app接口](https://www.bilibili.com/video/BV1B7411i7Se?p=9) |👍本人已经学习完成，主讲php接口开发：<br>（json/xml封装数据，<br>静态缓存/redis缓存，<br>定时任务，<br>读数据库，缓存数据库数据，定时缓存，<br>接口设计，<br>数据库设计）|
-| 3. [php中相对路径和绝对路径如何使用](https://www.cnblogs.com/Im-Victor/p/9444369.html) ||
-| 4. [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1217864791925600) |廖雪峰的官方网站|
-| 5. [PHP 单例模式连接数据库](https://blog.csdn.net/hcy48/article/details/78347280) ||
-| 6. [php redis 单例模式](https://blog.csdn.net/yqbaa/article/details/49151363) ||
-| 7. [数据库表设计的几条准则](https://www.cnblogs.com/wyq178/p/8549715.html) ||
-| 8. [MySQL字段类型](https://www.cnblogs.com/jennyyin/p/7895010.html) ||
-| 9. [一个汉字占几个字节你真的记住了吗？](https://www.cnblogs.com/zhixie/p/11968710.html) ||
-| 10. [浅谈MySQL中utf8和utf8mb4的区别](http://blog.xieyc.com/utf8-and-utf8mb4/?agtolg=cr12j2&mwfsda=kfzso) ||
+| 3. [php高性能框架Hyperf](https://www.bilibili.com/video/BV1WZ4y1x7Hw) |👍本人正在学习：<br>1.路由定义(配置文件形式配置路由/通过注解定义路由)<br> 2.注入方式：通过构造方法注入/通过@Inject注解注入<br>注入类型：简单对象注入/抽象对象注入/工厂对象注入<br>...|
+
+<br>
+<br>
+<br>
+
+| 语言学习 ||
+| --- | --- |
+| 1. [php中相对路径和绝对路径如何使用](https://www.cnblogs.com/Im-Victor/p/9444369.html) ||
+| 2. [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1217864791925600) |廖雪峰的官方网站|
+| 3. [PHP 单例模式连接数据库](https://blog.csdn.net/hcy48/article/details/78347280) ||
+| 4. [php redis 单例模式](https://blog.csdn.net/yqbaa/article/details/49151363) ||
+| 5. [数据库表设计的几条准则](https://www.cnblogs.com/wyq178/p/8549715.html) ||
+| 6. [MySQL字段类型](https://www.cnblogs.com/jennyyin/p/7895010.html) ||
+| 7. [一个汉字占几个字节你真的记住了吗？](https://www.cnblogs.com/zhixie/p/11968710.html) ||
+| 8. [浅谈MySQL中utf8和utf8mb4的区别](http://blog.xieyc.com/utf8-and-utf8mb4/?agtolg=cr12j2&mwfsda=kfzso) ||
 
 <br>
 <br>
