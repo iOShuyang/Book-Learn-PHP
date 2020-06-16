@@ -9,14 +9,14 @@
 | 语言学习by视频 ||
 | --- | --- |
 | 1. [PHP-零基础入门教程到书写接口](https://www.bilibili.com/video/BV1Yb411v7nK?p=15) |👍👍👍本人已经看完，推荐学习。主讲（php基础语法/SQL）|
-| 2. [php开发app接口](https://www.bilibili.com/video/BV1B7411i7Se?p=9) |👍本人已经学习完成，主讲php接口开发：<br>（json/xml封装数据，<br>静态缓存/redis缓存，<br>定时任务，<br>读数据库，缓存数据库数据，定时缓存，<br>接口设计，<br>数据库设计）|
-| 3. [php高性能框架Hyperf](https://www.bilibili.com/video/BV1WZ4y1x7Hw) |👍本人正在学习：<br>1.路由定义(配置文件形式配置路由/通过注解定义路由)<br> 2.注入方式：通过构造方法注入/通过@Inject注解注入<br>注入类型：简单对象注入/抽象对象注入/工厂对象注入<br>...|
+| 2. [php开发app接口](https://www.bilibili.com/video/BV1B7411i7Se?p=9) |👍本人已经学习完成，主讲php接口开发：<br>1.json/xml封装数据，<br>2.静态缓存/redis缓存，<br>3.定时任务，<br>4.读数据库，缓存数据库数据，定时缓存，<br>5.接口设计，<br>6.数据库设计|
+| 3. [php高性能框架Hyperf](https://www.bilibili.com/video/BV1WZ4y1x7Hw) |👍本人正在学习：<br>1.路由定义(配置文件形式配置路由/通过注解定义路由)<br><br> 2.注入方式：通过构造方法注入/通过@Inject注解注入<br>注入类型：简单对象注入/抽象对象注入/工厂对象注入<br><br>3.注解如何被扫描以及收集/自定义注解<br><br>4.AOP：面向切面编程,应用场景：参数校验、日志、无侵入埋点、安全控制、性能统计、事物处理、一层处理、缓存、无侵入监控、资源池、连接池管理等<br><br>5.协程:Channel通道/WaitGroup特性/Parallel特性<br><br>6.配置：通过 Config 对象获取配置/通过 @Value 注解获取配置/通过 config 函数获取/环境变量<br><br>...|
 
 <br>
 <br>
 <br>
 
-| 语言学习 ||
+| 语言学习by积累 ||
 | --- | --- |
 | 1. [php中相对路径和绝对路径如何使用](https://www.cnblogs.com/Im-Victor/p/9444369.html) ||
 | 2. [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384/1217864791925600) |廖雪峰的官方网站|
@@ -26,6 +26,8 @@
 | 6. [MySQL字段类型](https://www.cnblogs.com/jennyyin/p/7895010.html) ||
 | 7. [一个汉字占几个字节你真的记住了吗？](https://www.cnblogs.com/zhixie/p/11968710.html) ||
 | 8. [浅谈MySQL中utf8和utf8mb4的区别](http://blog.xieyc.com/utf8-and-utf8mb4/?agtolg=cr12j2&mwfsda=kfzso) ||
+| 9. [phpstorm中完成一键快速注释函数头](https://blog.csdn.net/lxw1844912514/article/details/100028248?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase) ||
+| 10. [PhpStorm内置的REST客户端 使用方法](https://blog.csdn.net/q549244663/article/details/78744421) ||
 
 <br>
 <br>
