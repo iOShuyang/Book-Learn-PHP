@@ -28,7 +28,8 @@
 | 8. [浅谈MySQL中utf8和utf8mb4的区别](http://blog.xieyc.com/utf8-and-utf8mb4/?agtolg=cr12j2&mwfsda=kfzso) ||
 | 9. [phpstorm中完成一键快速注释函数头](https://blog.csdn.net/lxw1844912514/article/details/100028248?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase) ||
 | 10. [PhpStorm内置的REST客户端 使用方法](https://blog.csdn.net/q549244663/article/details/78744421) ||
-
+| 11. [hyperf 学习项目，使用社区教程实现的一套商城 API](https://learnku.com/articles/46017) ||
+| 12. [Debugging Elasticsearch when homebrew says it is running but localhost:9200 can’t connect](https://medium.com/@mtvillwock/debugging-elasticsearch-when-homebrew-says-it-is-running-but-localhost-9200-cant-connect-749489ca450b) ||
 <br>
 <br>
 
@@ -57,7 +58,7 @@
 <br>
 <br>
 
-| 数据库/缓存-Mysql/Redis ||
+| 数据库/缓存-Mysql/Redis/ES ||
 | --- | --- |
 | 1.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
 | 2.[mysql索引类型和索引方式](https://blog.csdn.net/baidu_35813686/article/details/84434404)||
@@ -65,15 +66,21 @@
 | 4.[PHP连接MySQL主机127.0.0.1与localhost的区别](https://www.qttc.net/228_php_connect_mysql_which_host.html)|PhpStorm连接本地数据库用过localhost失败，通过127.0.0.1却成功|
 | 5.[mac os 命令行安装 启动和停止 redis](https://www.jianshu.com/p/a01a85c1041b)||
 | 6.[Mac 执行定时任务](https://blog.csdn.net/qiang_zi_/article/details/102500359)|定时跑php任务|
+| 7.[PHP with MySQL 8.0+ error: The server requested authentication method unknown to the client](https://stackoverflow.com/questions/52364415/php-with-mysql-8-0-error-the-server-requested-authentication-method-unknown-to)||
+| 8.[Mac终端上如何登录mysql数据库？](https://blog.csdn.net/weixin_41470864/article/details/82625436)||
+| 9.[Elasticsearch（一）——ES简介、MAC上安装ES、基本操作](https://blog.csdn.net/Vi_NSN/article/details/81546303)||
+| 10.[在 macOS 上安装 Elasticsearch 和 Kibana](https://mathsyouth.github.io/2019/01/31/elasticsearch)||
 <br>
 <br>
 
 | PHP框架-hyperf ||
 | --- | --- |
-| 0. [详解php通过pecl方式安装扩展](https://www.php.cn/php-weizijiaocheng-386194.html)||
-| 1. [Mac安装swoole中遇到的问题](https://blog.csdn.net/lishanleilixin/article/details/96137272)||
-| 2. [Mac 安装 Swoole 出现 Enable openssl support, require openssl library 的解决办法](https://cloud.tencent.com/developer/article/1555295)||
-| 3. [Xcode中找不到<openssl/ssl.h>文件怎么解决?](https://www.zhihu.com/question/50993692)| ./configure --enable-sockets --enable-openssl --with-php-config=/usr/bin/php-config --with-openssl-dir=/usr/local/Cellar/openssl/1.0.2t <br>make<br>make install<br>make test|
+| 0. [Swoole](https://wiki.swoole.com/#/)||
+| 1. [详解php通过pecl方式安装扩展](https://www.php.cn/php-weizijiaocheng-386194.html)||
+| 2. [Mac安装swoole中遇到的问题](https://blog.csdn.net/lishanleilixin/article/details/96137272)||
+| 3. [Mac 安装 Swoole 出现 Enable openssl support, require openssl library 的解决办法](https://cloud.tencent.com/developer/article/1555295)||
+| 4. [Xcode中找不到<openssl/ssl.h>文件怎么解决?](https://www.zhihu.com/question/50993692)| ./configure --enable-sockets --enable-openssl --with-php-config=/usr/bin/php-config --with-openssl-dir=/usr/local/Cellar/openssl/1.0.2t <br>make<br>make install<br>make test|
+| 5. [Hyperf 初体验-数据库](https://cloud.tencent.com/developer/article/1555312)||
 
 <br>
 <br>
@@ -93,7 +100,8 @@
 | 4. [使用docker-compose 大杀器来部署服务 上](https://www.cnblogs.com/williamjie/p/9103327.html)||
 | 5. [编写 Dockerfile](https://github.com/zhangpeihao/LearningDocker/blob/master/manuscript/04-WriteDockerfile.md)||
 | 6. [docker compose部署nginx，php，mysql](https://zhuanlan.zhihu.com/p/97824480?utm_source=wechat_session)||
-| 6. [MAC OS X中解决SOCKET.ERROR: ERRNO 48 ADDRESS ALREADY IN USE 端口占用问题](https://blog.csdn.net/dulei294948/article/details/40536963)||
+| 7. [MAC OS X中解决SOCKET.ERROR: ERRNO 48 ADDRESS ALREADY IN USE 端口占用问题](https://blog.csdn.net/dulei294948/article/details/40536963)||
+| 8. [docker安装ik分词器出错](https://blog.csdn.net/justs0s0/article/details/105820520)|elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v7.6.2/elasticsearch-analysis-ik-7.6.2.zip|
 
 <br>
 <br>
