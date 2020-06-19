@@ -10,7 +10,7 @@
 | --- | --- |
 | 1. [PHP-零基础入门教程到书写接口](https://www.bilibili.com/video/BV1Yb411v7nK?p=15) |👍👍👍本人已经看完，推荐学习。主讲（php基础语法/SQL）|
 | 2. [php开发app接口](https://www.bilibili.com/video/BV1B7411i7Se?p=9) |👍本人已经学习完成，主讲php接口开发：<br>1.json/xml封装数据，<br>2.静态缓存/redis缓存，<br>3.定时任务，<br>4.读数据库，缓存数据库数据，定时缓存，<br>5.接口设计，<br>6.数据库设计|
-| 3. [php高性能框架Hyperf](https://www.bilibili.com/video/BV1WZ4y1x7Hw) |👍本人正在学习：<br>1.路由定义(配置文件形式配置路由/通过注解定义路由)<br><br> 2.注入方式：通过构造方法注入/通过@Inject注解注入<br>注入类型：简单对象注入/抽象对象注入/工厂对象注入<br><br>3.注解如何被扫描以及收集/自定义注解<br><br>4.AOP：面向切面编程,应用场景：参数校验、日志、无侵入埋点、安全控制、性能统计、事物处理、一层处理、缓存、无侵入监控、资源池、连接池管理等<br><br>5.协程:Channel通道/WaitGroup特性/Parallel特性<br><br>6.配置：通过 Config 对象获取配置/通过 @Value 注解获取配置/通过 config 函数获取/环境变量<br><br>...|
+| 3. [php高性能框架Hyperf](https://www.bilibili.com/video/BV1WZ4y1x7Hw) |👍本人已经学习完成：<br>1.路由定义(配置文件形式配置路由/通过注解定义路由)<br><br> 2.注入方式：通过构造方法注入/通过@Inject注解注入<br>注入类型：简单对象注入/抽象对象注入/工厂对象注入<br><br>3.注解如何被扫描以及收集/自定义注解<br><br>4.AOP：面向切面编程,应用场景：参数校验、日志、无侵入埋点、安全控制、性能统计、事物处理、一层处理、缓存、无侵入监控、资源池、连接池管理等<br><br>5.协程:Channel通道/WaitGroup特性/Parallel特性<br><br>6.配置：通过 Config 对象获取配置/通过 @Value 注解获取配置/通过 config 函数获取/环境变量<br><br>7.事件机制:事件(Event)/监听器(Listener)/事件调度器(EventDispatcher)<br><br>8.中间件：全局中间件/局部中间件<br><br>9.异常处理：自定义一个异常处理<br><br>10.命令行：自定义命令<br><br>11.请求/响应|
 
 <br>
 <br>
@@ -103,6 +103,8 @@
 | 6. [docker compose部署nginx，php，mysql](https://zhuanlan.zhihu.com/p/97824480?utm_source=wechat_session)||
 | 7. [MAC OS X中解决SOCKET.ERROR: ERRNO 48 ADDRESS ALREADY IN USE 端口占用问题](https://blog.csdn.net/dulei294948/article/details/40536963)||
 | 8. [docker安装ik分词器出错](https://blog.csdn.net/justs0s0/article/details/105820520)|elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v7.6.2/elasticsearch-analysis-ik-7.6.2.zip|
+| 9. [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)|👍本人正在学习，主讲：<br>1.docker学习大纲/介绍 <br>2.安装docker配置镜像加速 <br>3.Run的流程和Docker原理 <br>4.镜像的基本命令 <br>5.容器的基本命令 <br>6.日志、元数据、进程的查看 <br>7.容器内操作 <br>8.镜像原理 <br>...|
+| 10. [Docker 镜像加速](https://www.runoob.com/docker/docker-mirror-acceleration.html)||
 
 <br>
 <br>
